@@ -1,0 +1,10 @@
+adminUser:
+  password: vault:elmeetup/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: jenkinsx-bot-sposcar@sharepointoscar.com
+  token: vault:elmeetup/pipelineUser:token
+  username: jenkinsx-bot-sposcar
+prow:
+  hmacToken: vault:elmeetup/prow:hmacToken
