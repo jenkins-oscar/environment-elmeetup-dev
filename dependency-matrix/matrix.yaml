@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: jenkins-oscar
+  repo: carros
+  url: https://github.com/jenkins-oscar/carros.git
+  version: ""
+  versionURL: ""
